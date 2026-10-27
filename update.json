@@ -3,7 +3,7 @@
   "version_code": 15,
   "version_name": "0.5.3",
   "min_sdk": 23,
-  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.2/app-debug.apk",
+  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.3/app-debug.apk",
     "sha256": "527649bfb5ecb372137abd31f39ded8877a563b56e9ba5223047dff924c58cbc",
   "notes": "Configuracao remota e verificacao de atualizacoes."
 }
