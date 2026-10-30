@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_code": 24,
-  "version_name": "0.5.12",
+  "version_code": 26,
+  "version_name": "0.5.14",
   "min_sdk": 23,
-  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.12/app-debug.apk",
-  "sha256": "dc768be525a0092900550df9672c6ab3d1ea1dd0203a39578995d09a34ccc294",
-  "notes": "Atualizacao com instalador alternativo para boxes antigas. Mantem som MP2, EPG, navegacao e CA2."
+  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.14/app-debug.apk",
+  "sha256": "60a6237f6bf811ffa9f64023b5033f6efefd0110b60378e99cd5cb3f273bb0b0",
+  "notes": "Atualizacao por sessao PackageInstaller. Mantem som MP2, CA2, EPG e navegacao."
 }
