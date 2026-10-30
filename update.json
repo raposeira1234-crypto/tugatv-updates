@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_code": 22,
-  "version_name": "0.5.10",
+  "version_code": 24,
+  "version_name": "0.5.12",
   "min_sdk": 23,
-  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.10/app-debug.apk",
-  "sha256": "123b0bc0b491704fa21326e42cafbad6b16153193ddd421aed091bfb38320cb9",
-  "notes": "Correcao do som MP2 com FFmpeg. Mantem as correcoes de EPG, comando e CA2."
+  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.12/app-debug.apk",
+  "sha256": "dc768be525a0092900550df9672c6ab3d1ea1dd0203a39578995d09a34ccc294",
+  "notes": "Atualizacao com instalador alternativo para boxes antigas. Mantem som MP2, EPG, navegacao e CA2."
 }
