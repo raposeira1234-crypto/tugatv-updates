@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_code": 26,
-  "version_name": "0.5.14",
+  "version_code": 27,
+  "version_name": "0.5.15",
   "min_sdk": 23,
-  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.14/app-debug.apk",
-  "sha256": "60a6237f6bf811ffa9f64023b5033f6efefd0110b60378e99cd5cb3f273bb0b0",
-  "notes": "Atualizacao por sessao PackageInstaller. Mantem som MP2, CA2, EPG e navegacao."
+  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.15/app-debug.apk",
+  "sha256": "6526e3b4fc0a194075771bf36c3cb606ab927b8050d95c77c57853caab87d5ab",
+  "notes": "VPN automatica ao abrir a app quando existe perfil guardado. Mantem Ligar VPN e Desligar manuais."
 }
