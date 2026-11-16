@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_code": 27,
-  "version_name": "0.5.15",
+  "version_code": 32,
+  "version_name": "0.5.20",
   "min_sdk": 23,
-  "apk_url": "https://github.com/raposeira1234-crypto/tugatv-updates/releases/download/v0.5.15/app-debug.apk",
-  "sha256": "6526e3b4fc0a194075771bf36c3cb606ab927b8050d95c77c57853caab87d5ab",
-  "notes": "VPN automatica ao abrir a app quando existe perfil guardado. Mantem Ligar VPN e Desligar manuais."
+  "apk_url": "https://api.curd133.xyz/updates/TUGA-TV-0.5.20.apk",
+  "sha256": "3f6a994ff87dcc721c7f6015de09dd8f4c3935fee4aed5615323e8563501e54a",
+  "notes": "Configuracao e atualizacoes no servidor proprio. Inclui as correcoes VPN testadas."
 }
